@@ -18,7 +18,7 @@ import gensim, nltk
 from  textrank4zh import TextRank4Keyword,TextRank4Sentence
 import codecs
 
-#from http://bdewilde.github.io/blog/2014/09/23/intro-to-automatic-keyphrase-extraction/
+
 def extract_candidate_features(candidates, doc_text, doc_excerpt, doc_title):
     import collections, math, nltk, re
     
