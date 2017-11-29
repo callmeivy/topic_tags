@@ -1,12 +1,10 @@
 #coding=UTF-8
 '''
 Updated on 6 June,2017
-北京台新闻推荐部分
-@author: Ivy
+**电视台新闻推荐部分
+@author
 为LDA准备reuters.tokens、tokens.txt、list_of_lists.txt、reuters.titles：
-tokens文档在root_directory_lda目录下
-reuters.titles在root_directory_lda目录下
-list_of_lists在/usr/jincan目录下
+
 '''
 import os
 import os.path
